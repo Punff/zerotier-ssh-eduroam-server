@@ -1,9 +1,9 @@
 # Setting Up Debian on an IBM Thinkpad T43 for Remote Access and Backups
 
 ## Introduction
-In this project, I transformed an old IBM Thinkpad T43 into a minimal Debian server named "junkyard" to serve as a remote access point and backup solution. The setup involved configuring SSH, firewall settings, ZeroTier network, and automated backups using rsync.
+In this project, I transformed an old IBM Thinkpad T43 into a minimal Debian server affectionately named "junkyard" to serve as a remote access point and backup solution. The setup involved configuring SSH, firewall settings, ZeroTier network, and automated backups using rsync.
 
-## Steps
+## Process
 
 ### 1. Installation and Stripping Down
 - Installed Debian on IBM Thinkpad T43.
